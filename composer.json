@@ -1,0 +1,7 @@
+{
+    "name": "ichikaway/cakeplus",
+    "type": "cakephp-plugin",
+    "require": {
+        "composer/installers": "*"
+    }
+}
