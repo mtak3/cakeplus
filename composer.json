@@ -1,0 +1,7 @@
+{
+    "name": "mtak3/cakeplus",
+    "type": "cakephp-plugin",
+    "require": {
+        "composer/installers": "*"
+    }
+}
