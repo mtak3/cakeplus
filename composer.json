@@ -1,5 +1,5 @@
 {
-    "name": "mtak3/cakeplus",
+    "name": "tyrellsys/cakeplus",
     "type": "cakephp-plugin",
     "require": {
         "composer/installers": "*"
